@@ -8,3 +8,4 @@ screenshots/
 logs/
 *.pdf
 .DS_Store
+answers_cache.json
